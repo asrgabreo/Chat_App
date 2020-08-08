@@ -6,7 +6,7 @@ A Realtime Chat-App 💬
 Created with React, Express, Node & Socket.IO .
 Created by Abhishek Singh @ ( https://github.com/asrgabreo ) , give a star if you like it.
 
-⬅️ Try It Right Now & Have Fun .
+### [Live Site] https://a-react-chat-app.netlify.app/ ⬅️ Try It Right Now & Have Fun .
 
 Setup:
 =>run npm i && npm start for both client and server side to start the development server .
